@@ -1,0 +1,13 @@
+Variable,Slope per year,R-squared,p-value
+SBP_brachial,0.145,0.66,4.956e-02
+DBP_brachial,-0.089814,0.348,2.182e-01
+MBP_brachial,0.089329,0.41,1.711e-01
+PP_brachial,0.234846,0.988,5.355e-05
+PWV_aortic,0.080884,0.988,5.323e-05
+PWV_carotid_femoral,0.079628,0.995,1.107e-05
+augmentation_index,0.749614,0.991,2.944e-05
+stroke_volume,-0.241977,0.999,4.521e-07
+heart_rate,0.020414,0.04,7.025e-01
+cardiac_output,-0.016805,0.861,7.604e-03
+relative_stiffness_index,0.002059,0.887,4.979e-03
+apparent_compliance_index,-0.008873,0.903,3.627e-03

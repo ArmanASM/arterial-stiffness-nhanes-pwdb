@@ -1,0 +1,13 @@
+Variable,Value
+N,4890
+"Age, years",51.11 ± 17.52
+"BMI, kg/m^2",29.84 ± 7.35
+"Mean systolic BP, mmHg",126.57 ± 19.43
+"Mean diastolic BP, mmHg",72.88 ± 12.00
+"Pulse pressure, mmHg",53.69 ± 17.58
+"Mean arterial pressure, mmHg",90.77 ± 12.37
+Relative stiffness index,0.60 ± 0.19
+Apparent compliance index,1.84 ± 0.54
+"Male, n (%)",2382 (48.7%)
+"Female, n (%)",2508 (51.3%)
+"Hypertension history yes, n (%)",1846 (37.8%)

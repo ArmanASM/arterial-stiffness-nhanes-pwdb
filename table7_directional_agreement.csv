@@ -1,0 +1,7 @@
+Variable,Expected direction,PWDB observed direction,Directional agreement,PWDB r,PWDB p-value
+PP_brachial,increases,increases,Yes,0.994,5.355e-05
+relative_stiffness_index,increases,increases,Yes,0.942,4.979e-03
+apparent_compliance_index,decreases,decreases,Yes,-0.95,3.627e-03
+PWV_aortic,increases,increases,Yes,0.994,5.323e-05
+PWV_carotid_femoral,increases,increases,Yes,0.997,1.107e-05
+augmentation_index,increases,increases,Yes,0.996,2.944e-05

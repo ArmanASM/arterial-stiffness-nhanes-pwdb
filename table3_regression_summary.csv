@@ -1,0 +1,4 @@
+Outcome,Age coefficient,Age p-value,Model R^2,N
+Pulse pressure,0.47373,6.763e-246,0.297,4880
+Relative stiffness index,0.004491,2.254e-165,0.193,4880
+Apparent compliance index,-0.012084,2.445e-150,0.176,4880

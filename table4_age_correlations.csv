@@ -1,0 +1,4 @@
+Variable,Pearson r with age,p-value
+pulse_pressure,0.524,0.000e+00
+relative_stiffness_index,0.429,9.982e-218
+apparent_compliance_index,-0.408,3.980e-195
